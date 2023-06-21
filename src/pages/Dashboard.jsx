@@ -44,12 +44,12 @@ const Dashboard = () => {
 
       <div className="statics">
         <div className="stats">
-          <h3 className='stats__title'>Items Statistics</h3>
+          <h3 className='stats__title'>Items </h3>
           <MileChart />
         </div>
 
         <div className="stats">
-          <h3 className='stats__title'>Client Statistics</h3>
+          <h3 className='stats__title'>Orders</h3>
           <CarStatsChart />
         </div>
       </div>
