@@ -1,1 +1,7 @@
-On the terminal, use npm i to install dependencies, and to start/run the project enter npm start
+## In the project directory:
+
+## To install dependencies
+### `npm i`
+
+## To start/run the project
+### `npm start`
